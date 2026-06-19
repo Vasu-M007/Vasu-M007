@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Tyt146_Obx7xf2KIrayczgKZ48RcTQJH/view?usp=sharing](https://drive.google.com/file/d/1Tyt146_Obx7xf2KIrayczgKZ48RcTQJH/view?usp=sharing)
 
-- ⚡ Fun fact **I am a professional comedian**
+- ⚡ Fun fact **Once I get dependency errors there's no going back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
