@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Vanilla Transformer Architecture [VanillaTransformer](https://github.com/Vasu-M007/VanillaTransformer)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, RAG, LangChain and Foundational LLMs**
+- 🌱 I’m currently learning **Data Structures and Algorithms, RAG, Orchestration Frameworks and Foundational LLMs**
 
 - 💬 Ask me about **PyTorch, FastAPI, RAG, AgenticAI, GenerativeAI**
 
