@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasu Mahajan</h1>
+<h1 align="center">Hi, I'm Vasu Mahajan</h1>
 <h3 align="center">Building intelligent systems through Machine Learning, Deep Learning, and Robotics, Researching at the intersection of AI, Computer Vision, and Autonomous Systems.</h3>
 
 - 🔭 I’m currently working on Vanilla Transformer Architecture [VanillaTransformer](https://github.com/Vasu-M007/VanillaTransformer)
