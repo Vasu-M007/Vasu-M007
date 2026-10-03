@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vasumahajan343@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tyt146_Obx7xf2KIrayczgKZ48RcTQJH/view?usp=sharing](https://drive.google.com/file/d/1LKL-5-gQ6HcbOTQgzLVhMwSlgo1j8l3c/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/168890CJx_a8RRiZ342oDWZlux2aC4Oi0/view?usp=sharing)
 
 - ⚡ Fun fact **Once I get dependency errors there's no going back**
 
