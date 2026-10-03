@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vasu Mahajan</h1>
 <h3 align="center">Building intelligent systems through Machine Learning, Deep Learning, and Robotics, Researching at the intersection of AI, Computer Vision, and Autonomous Systems.</h3>
 
-- 🔭 I’m currently working on WACV LVR 2027 Paper Submission [Silent state tracking in vision-language models: image vs text states](https://github.com/Vasu-M007/LVR-WACV-WORKSHOP-2027)
+- 🔭 I’m currently working on WACV LVR 2027 Workshop Paper Submission [Silent state tracking in vision-language models: image vs text states](https://github.com/Vasu-M007/LVR-WACV-WORKSHOP-2027)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, RAG, Orchestration Frameworks and Foundational LLMs**
 
