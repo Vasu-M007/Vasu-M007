@@ -10,8 +10,7 @@
 - 📫 How to reach me **vasumahajan343@gmail.com**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/168890CJx_a8RRiZ342oDWZlux2aC4Oi0/view?usp=sharing)
-
-- ⚡ Fun fact **Once I get dependency errors there's no going back**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
