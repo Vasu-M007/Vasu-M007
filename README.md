@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, RAG, Orchestration Frameworks and Foundational LLMs**
 
-- 💬 Ask me about **PyTorch, FastAPI, RAG, AgenticAI, GenerativeAI**
+- 💬 Ask me about **PyTorch, Computer Vision, Deep Learning, Agentic AI and GenerativeAI**
 
 - 📫 How to reach me **vasumahajan343@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/168890CJx_a8RRiZ342oDWZlux2aC4Oi0/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1wQboT569091ACMW56wwNHxKp83zn3W7n/view?usp=sharing)
 **
 
 <h3 align="left">Connect with me:</h3>
